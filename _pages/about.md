@@ -7,7 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+I'm a first year undergraduate student from [Institute of Subtropical Agriculture](https://www.isa.cas.cn/), [University of Chinese Academic of Science](https://www.ucas.ac.cn/). My research interest mainly focus on the vegetation change in Karst during the Anthropocene.
+
+I am very fortunate to be advised by [Prof. Yuemin Yue](https://isa.cas.cn/sourcedb/zw/zjrc/202012/t20201222_5873111.html) of Guangxi Key Laboratory of Karst Ecological Processes and Services from [School of Computer Science](https://cs.pku.edu.cn/), ISA. 
+
+You can find my CV here: [Shuai Yuan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+
 
 A data-driven personal website
 ======
